@@ -7,15 +7,13 @@
 
 <p align="center">
   Soongsil University, School of Software Science<br>
-  <a href="https://seonghwan7694.github.io/">Development Blog</a><br/>
+  <a href="https://seonghwan7694.github.io/">Blog</a><br/>
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <h2 align="center">OS</h2>
-  <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/> &nbsp <br/>
-  <h2 align="center">Programming Language</h2>
+  <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
 </p>
