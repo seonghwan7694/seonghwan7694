@@ -10,7 +10,8 @@
   <a href="https://seonghwan7694.github.io/">Development Blog</a><br>
 </p>
 
-<h3 align="center"><b>Skills</b></h3>
+<h3 align="center">🛠 Tech Stack</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
@@ -23,5 +24,7 @@
 
 ## 💻 Online Judge
 
-* BOJ: [seonghwan7694](http://icpc.me/seonghwan7694)
-  * solvedac: [jhnah917](https://solved.ac/profile/seonghwan7694)
+* BOJ: [jhnah917](http://icpc.me/jhnah917)
+  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
+* Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui) [![](https://run.kaist.ac.kr/badges/codeforces/justice_hui.svg)](https://codeforces.com/profile/Justice_Hui)
+* Atcoder: [JusticeHui](https://atcoder.jp/users/JusticeHui) [![](https://run.kaist.ac.kr/badges/atcoder/JusticeHui.svg)](https://atcoder.jp/users/JusticeHui)
