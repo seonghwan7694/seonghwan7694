@@ -22,9 +22,6 @@
 <br/>
 <br/>
 
-## 💻 Online Judge
-
-* BOJ: [jhnah917](http://icpc.me/jhnah917)
-  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
-* Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui) [![](https://run.kaist.ac.kr/badges/codeforces/justice_hui.svg)](https://codeforces.com/profile/Justice_Hui)
-* Atcoder: [JusticeHui](https://atcoder.jp/users/JusticeHui) [![](https://run.kaist.ac.kr/badges/atcoder/JusticeHui.svg)](https://atcoder.jp/users/JusticeHui)
+<p align="center">
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694)
+</p>
