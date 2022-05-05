@@ -20,6 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694) &nbsp
 </p>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694){: width="150" height="100"}
