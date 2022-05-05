@@ -22,4 +22,4 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
 </p>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694){: width="50%" heigt="50%}
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694){: width="50%" heigt="50%"}
