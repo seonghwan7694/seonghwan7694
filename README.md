@@ -3,17 +3,11 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/44c5NQB/001-2022-02-05-23-02-29.png" alt="rirakuma-psa" width="128px" border="0"></a>
 </p>
 
-<p align="center">
-  Hi :3 I'm <b>Seonghwan</b>. I'm studying in Soongsil University. <br/>
-  I'm majoring in Software Science, <br/>
-  and interested in <b>Algorithms</b>, <b>Data analysis</b> and <b>Web and App Development</b>. <br/>
-  Feel free to contact me! 😉
-</p>
+<h3 align="center">🙋‍♂️ Profile</h3>
 
-<h3 align="center"><b>Contact</b></h3>
 <p align="center">
-<a href="mailto:seonghwan7694@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EA%B9%80-b18857229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+  Soongsil University, School of Software Science<br>
+  <a href="https://seonghwan7694.github.io/">Development Blog</a><br>
 </p>
 
 <h3 align="center"><b>Skills</b></h3>
@@ -30,4 +24,4 @@
 ## 💻 Online Judge
 
 * BOJ: [seonghwan7694](http://icpc.me/seonghwan7694)
-  * solvedac: [seonghwan7694](https://solved.ac/profile/seonghwan7694)
+  * solvedac: [jhnah917](https://solved.ac/profile/seonghwan7694)
