@@ -7,7 +7,7 @@
 
 <p align="center">
   Soongsil University, School of Software Science<br>
-  <a href="https://seonghwan7694.github.io/">Blog</a><br/>
+  <a href="https://seonghwan7694.github.io/">**Blog**</a><br/>
 </p>
 
 <h3 align="center">🛠 Tech Stack</h3>
