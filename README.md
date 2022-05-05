@@ -12,9 +12,8 @@
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
-<a href="mailto:kaithape@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://www.linkedin.com/in/suyeon-nam-2b65881aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/tsusuyomi/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+<a href="mailto:seonghwan7694@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/%EC%84%B1%ED%99%98-%EA%B9%80-b18857229/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>Skills</b></h3>
@@ -32,4 +31,3 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> &nbsp
 </p>
-<center> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694) </center>
