@@ -16,8 +16,7 @@
   <img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj="seonghwan7694")](https://solved.ac/seonghwan7694)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wookii)](https://solved.ac/wookii)
 </p>
 
 <br/>
