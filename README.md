@@ -17,11 +17,3 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> &nbsp
 </p>
-
-<br/>
-<br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghwan7694)](https://solved.ac/seonghwan7694)
-<p align="center">
-  <a href="https://solved.ac/profile/seonghwan7694"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=seonghwan7694"></a><br>
-</p>
