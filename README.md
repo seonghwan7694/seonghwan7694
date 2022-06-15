@@ -19,3 +19,4 @@
 </p>
 
 <a href="https://opgc.me/#/users/seonghwan7694" target="_blank"><img src="https://api.opgc.me/githubs/users/seonghwan7694/tag/?theme=basic" /></a>
+![seonghwan7694's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=seonghwan7694)
