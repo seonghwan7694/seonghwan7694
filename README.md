@@ -6,7 +6,7 @@
 <h3 align="center">🙋‍♂️ Profile</h3>
 
 <p align="center">
-  Soongsil University, School of Software Science<br>
+  Soongsil University, Software <br>
   <a href="https://seonghwan7694.github.io/">Blog</a><br/>
 </p>
 
